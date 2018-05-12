@@ -1,0 +1,28 @@
+_repo: With-the-British-Army-in-The-Holy-Land_19822
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lock, H. O. (Henry Osmond)
+    alias: Lock, Henry Osmond
+    birthdate: 1879
+    gutenberg_agent_id: '8905'
+    url: http://www.gutenberg.org/2009/agents/8905
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19822'
+  lccn: '19016135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Palestine'
+- !lcc 'D501'
+title: With the British Army in The Holy Land
+url: http://www.gutenberg.org/ebooks/19822
